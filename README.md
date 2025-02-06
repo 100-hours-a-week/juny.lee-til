@@ -7,3 +7,5 @@
 25.02.04 Numpy, Pandas 강의 수강, 미니 퀘스트, 2주차 과제 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-04.md))
 
 25.02.05 2주차 과제, CS 공부, AWS MLS-C01 준비, 공부 블로그 작성 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-05.md))
+
+25.02.06 CS 공부, AWS MLS-C01 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-06.md))
