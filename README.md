@@ -11,3 +11,5 @@
 25.02.06 CS 공부, AWS MLS-C01 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-06.md))
 
 25.02.07 딥다이브, AWS MLS-C01 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-07.md))
+
+25.02.08 수학 강의, CS 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-08.md))
