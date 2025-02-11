@@ -15,3 +15,5 @@
 25.02.08 수학 강의, CS 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-08.md))
 
 25.02.10 시각화 집중 강의, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-10.md))
+
+25.02.11 크램폴린 특강, CS 공부, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-11.md))
