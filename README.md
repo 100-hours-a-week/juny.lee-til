@@ -21,3 +21,5 @@
 25.02.13 SCiPy 심화 강의, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-13.md))
 
 25.02.14 딥다이브, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-14.md))
+
+25.02.17 미분 심화 강의, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-17.md))
