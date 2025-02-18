@@ -1,6 +1,6 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [2월 첫째주, 1주차] : Numpy, Pandas
+### [2월 둘째주, 3주차] : Numpy, Pandas
 
 25.02.03 재귀함수 심화 강의 수강, Git 미니 퀘스트 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-03.md))
 
@@ -14,6 +14,8 @@
 
 25.02.08 수학 강의, CS 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-08.md))
 
+### [2월 셋째주, 4주차] : Matplotlib
+
 25.02.10 시각화 집중 강의, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-10.md))
 
 25.02.11 크램폴린 특강, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-11.md))
@@ -21,6 +23,8 @@
 25.02.13 SCiPy 심화 강의, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-13.md))
 
 25.02.14 딥다이브, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-14.md))
+
+### [2월 넷째주, 5주차] : ML, DL
 
 25.02.17 미분 심화 강의, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-17.md))
 
