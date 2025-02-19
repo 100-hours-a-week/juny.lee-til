@@ -29,3 +29,5 @@
 25.02.17 미분 심화 강의, 자격증 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-17.md))
 
 25.02.18 인공지능 집중 강의, 해커톤 자기 PR 페이지 작성 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-18.md))
+
+25.02.19 인공지능 보충 강의, 해커톤 주제 서치 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-19.md))
