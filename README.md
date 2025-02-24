@@ -30,4 +30,12 @@
 
 25.02.18 인공지능 집중 강의, 해커톤 자기 PR 페이지 작성 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-18.md))
 
-25.02.19 인공지능 보충 강의, 해커톤 주제 서치 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-19.md))
+25.02.19 인공지능 보충 강의, 해커톤 주제 관련 서치 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-19.md))
+
+25.02.20 Fast API 보충 강의, 해커톤 주제 관련 서치 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-20.md))
+
+25.02.21 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-21.md))
+
+### [2월 다섯째주, 6주차] : DL, Hackathon
+
+25.02.24 인공지능 집중 강의, 해커톤 준비 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-24.md))
