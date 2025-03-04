@@ -48,6 +48,8 @@
 
 25.02.28 해커톤 발표 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-02-28.md))
 
-### [3월 첫째주, 6주차] : 
+### [3월 첫째주, 6주차] : Pre-trained Model
 
-25.03.03 5주차 과제 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Feb/2025-03-03.md))
+25.03.03 5주차 과제 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-03.md))
+
+25.03.04 집중 강의 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-04.md))
