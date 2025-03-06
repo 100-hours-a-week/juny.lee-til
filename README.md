@@ -52,4 +52,8 @@
 
 25.03.03 5주차 과제 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-03.md))
 
-25.03.04 집중 강의 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-04.md))
+25.03.04 Pre-trained model 집중 강의 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-04.md))
+
+25.03.05 Pre-trained model 보충 강의, 집중 강의 복습 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-05.md))
+
+25.03.05 Tensor board 보충 강의, 과제 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-06.md))
