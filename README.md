@@ -70,4 +70,8 @@
 
 25.03.18 7주차 과제, 개인 프로젝트 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-18.md))
 
-25.03.19 개인 프로젝트 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-19.md))
+25.03.19 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-19.md))
+
+25.03.20 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-20.md))
+
+25.03.21 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-21.md))
