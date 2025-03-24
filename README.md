@@ -75,3 +75,5 @@
 25.03.20 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-20.md))
 
 25.03.21 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-21.md))
+
+25.03.24 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-24.md))
