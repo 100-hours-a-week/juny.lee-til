@@ -76,8 +76,22 @@
 
 25.03.21 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-21.md))
 
+### [3월 넷째주, 9주차] : 개인 프로젝트, 백준 스터디
+
 25.03.24 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-24.md))
 
 25.03.25 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-25.md))
 
 25.03.26 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-26.md))
+
+25.03.27 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-27.md))
+
+25.03.28 개인 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-28.md))
+
+25.03.31 팀 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-03-31.md))
+
+### [4월 첫째주, 10주차] : 팀 프로젝트 시작
+
+25.04.01 팀 프로젝트, 백준 스터디, 카테부 코테 스터디, 카테부 기술 면접 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-04-01.md))
+
+25.04.02 팀 프로젝트, 백준 스터디, 카테부 코테 스터디, 카테부 모의 면접 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Mar/2025-04-02.md))
