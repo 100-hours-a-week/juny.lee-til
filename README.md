@@ -99,3 +99,9 @@
 25.04.03 팀 프로젝트, 백준 스터디, 카테부 이력서 첨삭 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Apr/2025-04-03.md))
 
 25.04.04 팀 프로젝트, 백준 스터디 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Apr/2025-04-04.md))
+
+### [4월 둘째주, 11주차] : 팀 프로젝트 기획 주간
+
+25.04.07 팀 프로젝트, 백준 스터디, 카테부 코테 스터디, 카테부 기술 면접 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Apr/2025-04-07.md))
+
+25.04.08 팀 프로젝트, 백준 스터디, 카테부 코테 스터디, 카테부 모의 면접 ([상세 내역 링크](https://github.com/100-hours-a-week/juny.lee-til/blob/main/Apr/2025-04-08.md))
